@@ -1,10 +1,10 @@
-# Hi there 👋
+# 🪄Asleshita Tuduku🪄
 
 ### Curious mind driven by technology and continuous growth.
 
 ---
 
-## 🧠 About Me
+## 😁 About Me
 I enjoy turning ideas into reality through code and am driven by curiosity to understand how things work, both in technology and beyond.
 
 ---
@@ -16,13 +16,13 @@ I enjoy turning ideas into reality through code and am driven by curiosity to un
 
 ---
 
-## 🚀 Projects
+## 🤓 Projects
 - 🔗 [Bible Verse](https://github.com/Asleshita/Bible-Verse)  
 - 🔗 [Veil of Minds](https://github.com/Asleshita/veil-of-minds)  
 
 ---
 
-## 🌱 Interests
+##  ✨Interests
 I am interested in exploring creative storytelling through technology and understanding how systems and software work internally.
 
 ---
